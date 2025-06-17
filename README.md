@@ -31,11 +31,38 @@
   <img src="https://img.shields.io/badge/MVP-blueviolet" />
   <img src="https://img.shields.io/badge/MVVM-blueviolet" />
   <img src="https://img.shields.io/badge/DDD-blueviolet" />
+  <img src="https://img.shields.io/badge/MVC-blueviolet" />
+  <img src="https://img.shields.io/badge/Flux-blueviolet" />
+  <img src="https://img.shields.io/badge/Observer-blueviolet" />
+  <img src="https://img.shields.io/badge/Command-blueviolet" />
+  <img src="https://img.shields.io/badge/Strategy-blueviolet" />
+  <img src="https://img.shields.io/badge/Factory-blueviolet" />
+  <img src="https://img.shields.io/badge/Singleton-blueviolet" />
+</p>
+
+#### ⚡ Performance
+
+<p>
+  <img src="https://img.shields.io/badge/ECS-008080?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOTS-007ACC?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Job System-17a2b8" />
+  <img src="https://img.shields.io/badge/Burst Compiler-4B0082?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multithreading-FF6347?logo=thread&logoColor=white" />
+  <img src="https://img.shields.io/badge/Native%20Collections-228B22?logo=unity&logoColor=white" />
+</p>
+
+#### 🧰 Tools
+
+<p>
   <img src="https://img.shields.io/badge/UniTask-17a2b8" />
   <img src="https://img.shields.io/badge/VContainer-222222" />
   <img src="https://img.shields.io/badge/Zenject-5e35b1" />
   <img src="https://img.shields.io/badge/MessagePipe-4A90E2" />
   <img src="https://img.shields.io/badge/UniRx/R3-4A90E2" />
+  <img src="https://img.shields.io/badge/FlatBuffers-00599C?logo=c%23&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOTween-1DC2FF?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odin_Inspector-6E5BC7?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odin_Serializer-6E5BC7?logo=unity&logoColor=white" />
 </p>
 
 #### 🌐 Networking & Web
