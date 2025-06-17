@@ -95,7 +95,7 @@
   <a href="https://t.me/kaganobu"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/daniel-sarabuna/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://steamcommunity.com/profiles/76561199175093078/"><img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white" /></a>
-  <a href="https://discord.com/users/твой-id"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /></a>
+  <a href="https://discord.com/users/kaganobu"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /></a>
   <a href="https://account.xbox.com/en-us/profile?gamertag=Kaganobu9340"><img src="https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=white" /></a>
   <a href="https://www.reddit.com/user/kaganobu/"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" /></a>
   <a href="https://www.codewars.com/users/danielsarabuna/"><img src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white" /></a>
