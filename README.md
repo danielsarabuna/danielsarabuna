@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
 </p>
 
-#### 🎮 Unity Engine & Architecture
+#### 🎮 Unity Engine
 
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/ECS-008080?logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/DOTS-007ACC?logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/JobSystem-17a2b8" />
+  <img src="https://img.shields.io/badge/Input%20System-696969?logo=unity&logoColor=white" />
 </p>
 
 #### 📊 Architecture & Patterns
